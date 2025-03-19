@@ -1,42 +1,42 @@
-# Hi, I'm Nathanael!
+# Hi, I'm Nathanael! 👋
 
-I'm a second year student at Northeastern University, pursuing a Bachelor of Science in Computer Science at Northeastern University, specializing in Artificial Intelligence. 
+🎓 I'm a second-year Computer Science student at **Northeastern University**, specializing in **Artificial Intelligence**.  
+💻 Passionate about building impactful software using AI, full-stack web development, and object-oriented design.
 
-## Projects
-- [ThreeTrios](https://github.com/NateGPTs/ThreeTrios)
-  A adaptation of ThreeTrios card game. Made using Java, with Object Oriented Design principles.
-  
-- [Cineplex](https://github.com/NateGPTs/Cineplex-Fullstack)
-  A fullstack React App allowing users to comment, review, and follow other users.
+---
 
-- [Kanbas-React-App](https://github.com/NateGPTs/kanbas-react-app)
-  
-  [Kanbas-Node-Server](https://github.com/NateGPTs/kanbas-node-server-app)
-  
-  The links above represent a fullstack project imitating Northeastern Universitie's canvas website.
-  Frontend in a react app, backend is the node server.
+## 🚀 Projects
 
-- [Nexus-AI](https://github.com/tilakpatell/NexusAI)
+### [ThreeTrios](https://github.com/NateGPTs/ThreeTrios)
+A Java-based adaptation of the **ThreeTrios** card game, built using **Object-Oriented Design principles**.
 
-  This was a project for InnovAlte 2025 AI Hackathon. Includes our frontend react app for purchasing robots, and a CNN-LSTM model (86%
-  accuracy, trained on 14,000 videos) using TensorFlow & OpenCV.
+### [Cineplex](https://github.com/NateGPTs/Cineplex-Fullstack)
+A **full-stack React app** that allows users to **comment, review**, and **follow** other users. Features real-time interactions and modern UI.
 
+### Kanbas  
+- [Frontend (React)](https://github.com/NateGPTs/kanbas-react-app)  
+- [Backend (Node.js)](https://github.com/NateGPTs/kanbas-node-server-app)  
+A full-stack web app **imitating Northeastern University's Canvas** platform. Built with React, Node.js, and MongoDB.
 
-## Skills
-Java | JavaScript | TypeScript | Python | React | Node.js | MongoDB | Axios | 
+### [Nexus-AI](https://github.com/tilakpatell/NexusAI)
+🏆 Built for **InnovAlte 2025 AI Hackathon**  
+Includes a **CNN-LSTM model** (86% accuracy on 14,000 videos) using **TensorFlow & OpenCV**, and a React frontend for robot purchase simulations.
 
+---
 
-<!--
-**NateGPTs/NateGPTs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Skills
 
-Here are some ideas to get you started:
+Java • JavaScript • TypeScript • Python  
+React • Node.js • MongoDB • Axios  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📫 Let’s Connect!
+
+[LinkedIn](www.linkedin.com/in/nathanael-soesetio-b9b09a34b/) • [Email](soesetio.n@northeastern.edu)
+
+---
+
+<!-- Optional GitHub Stats (can add these for flair) -->
+<!-- ![NateGPTs's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NateGPTs&show_icons=true&theme=tokyonight) -->
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NateGPTs&layout=compact) -->
