@@ -20,7 +20,7 @@ A **full-stack React app** that allows users to **comment, review**, and **follo
 A full-stack web app **imitating Northeastern University's Canvas** platform. Built with React, Node.js, and MongoDB.
 
 ### [Nexus-AI](https://github.com/tilakpatell/NexusAI)
-🏆 Built for **InnovAlte 2025 AI Hackathon**  
+Built for **InnovAlte 2025 AI Hackathon**  
 Includes a **CNN-LSTM model** (86% accuracy on 14,000 videos) using **TensorFlow & OpenCV**, and a React frontend for robot purchase simulations.
 
 ---
