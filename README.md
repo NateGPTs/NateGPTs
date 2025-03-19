@@ -15,7 +15,8 @@ A **full-stack React app** that allows users to **comment, review**, and **follo
 
 ### Kanbas  
 - [Frontend (React)](https://github.com/NateGPTs/kanbas-react-app)  
-- [Backend (Node.js)](https://github.com/NateGPTs/kanbas-node-server-app)  
+- [Backend (Node.js)](https://github.com/NateGPTs/kanbas-node-server-app)
+
 A full-stack web app **imitating Northeastern University's Canvas** platform. Built with React, Node.js, and MongoDB.
 
 ### [Nexus-AI](https://github.com/tilakpatell/NexusAI)
