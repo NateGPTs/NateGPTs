@@ -32,7 +32,8 @@ Includes a **CNN-LSTM model** (86% accuracy on 14,000 videos) using **TensorFlow
 
 ## 🛠️ Skills
 
-Java • JavaScript • TypeScript • Python • C • C# •
+Java • JavaScript • TypeScript • Python • C • C#
+
 React • Node.js • MongoDB • Axios • SpringBoot 
 
 ---
