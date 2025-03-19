@@ -10,7 +10,10 @@
 ### [ThreeTrios](https://github.com/NateGPTs/ThreeTrios)
 A Java-based adaptation of the **ThreeTrios** card game, built using **Object-Oriented Design principles**.
 
-### [Cineplex](https://github.com/NateGPTs/Cineplex-Fullstack)
+### Cineplex
+- [Frontend (Vite + React)](https://github.com/NateGPTs/Cineplex-Frontend-FINAL)
+- [Backend (Spring Boot MongoDB)](https://github.com/NateGPTs/Cineplex-Backend-FINAL)
+
 A **full-stack React app** that allows users to **comment, review**, and **follow** other users. Features real-time interactions and modern UI.
 
 ### Kanbas  
