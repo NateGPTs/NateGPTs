@@ -34,7 +34,7 @@ React • Node.js • MongoDB • Axios
 
 ## 📫 Let’s Connect!
 
-[LinkedIn](www.linkedin.com/in/nathanael-soesetio-b9b09a34b/) • [Email](soesetio.n@northeastern.edu)
+[LinkedIn](https://linkedin.com/in/nathanael-soesetio-b9b09a34b/) • [Email](mailto:soesetio.n@northeastern.edu)
 
 ---
 
