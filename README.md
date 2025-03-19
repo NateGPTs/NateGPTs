@@ -16,6 +16,11 @@ I'm a second year student at Northeastern University, pursuing a Bachelor of Sci
   The links above represent a fullstack project imitating Northeastern Universitie's canvas website.
   Frontend in a react app, backend is the node server.
 
+- [Nexus-AI](https://github.com/tilakpatell/NexusAI)
+
+  This was a project for InnovAlte 2025 AI Hackathon. Includes our frontend react app for purchasing robots, and a CNN-LSTM model (86%
+  accuracy, trained on 14,000 videos) using TensorFlow & OpenCV.
+
 
 ## Skills
 Java | JavaScript | TypeScript | Python | React | Node.js | MongoDB | Axios | 
