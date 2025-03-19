@@ -16,6 +16,8 @@ A Java-based adaptation of the **ThreeTrios** card game, built using **Object-Or
 
 A **full-stack React app** that allows users to **comment, review**, and **follow** other users. Features real-time interactions and modern UI.
 
+*Disclaimer: The Cineplex repositories were recreated after the original was deleted. This is the latest maintained version.*
+
 ### Kanbas  
 - [Frontend (React)](https://github.com/NateGPTs/kanbas-react-app)  
 - [Backend (Node.js)](https://github.com/NateGPTs/kanbas-node-server-app)
