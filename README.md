@@ -10,8 +10,9 @@ I'm a second year student at Northeastern University, pursuing a Bachelor of Sci
   A fullstack React App allowing users to comment, review, and follow other users.
 
 - [Kanbas-React-App](https://github.com/NateGPTs/kanbas-react-app)
-  ##
+  
   [Kanbas-Node-Server](https://github.com/NateGPTs/kanbas-node-server-app)
+  
   The links above represent a fullstack project imitating Northeastern Universitie's canvas website.
   Frontend in a react app, backend is the node server.
 
