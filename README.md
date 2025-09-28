@@ -1,11 +1,10 @@
-# Hi, I'm Nathanael! 👋
+# Hi, I'm Nathanael! 
 
-🎓 I'm a second-year Computer Science student at **Northeastern University**, specializing in **Artificial Intelligence**.  
-💻 Passionate about building impactful software using AI, full-stack web development, and object-oriented design.
+A third year CS Major at Northeastern University concentrating in Computer Systems. 
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### [ThreeTrios](https://github.com/NateGPTs/ThreeTrios)
 A Java-based adaptation of the **ThreeTrios** card game, built using **Object-Oriented Design principles**.
@@ -30,15 +29,15 @@ Includes a **CNN-LSTM model** (86% accuracy on 14,000 videos) using **TensorFlow
 
 ---
 
-## 🛠️ Skills
+## Skills
 
-Java • JavaScript • TypeScript • Python • C • C#
+Java • JavaScript • TypeScript • Python • C • C++
 
 React • Node.js • MongoDB • Axios • SpringBoot 
 
 ---
 
-## 📫 Let’s Connect!
+## LinkedIn
 
 [LinkedIn](https://linkedin.com/in/nathanael-soesetio-b9b09a34b/) • [Email](mailto:soesetio.n@northeastern.edu)
 
